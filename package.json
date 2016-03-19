@@ -1,0 +1,19 @@
+{
+  "name": "nodeweb",
+  "version": "1.0.0",
+  "description": "Test web app with node",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "author": "Sudip Dutta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cfenv": "^1.0.3",
+    "cloudant": "^1.4.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0"
+  }
+}
